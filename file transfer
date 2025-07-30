@@ -1,0 +1,7 @@
+Then File transfer to WSL machines
+
+
+scp -P filepathoffile  mathanroot@ip:targetfilepath
+
+
+
