@@ -1,0 +1,4 @@
+Then connect ubuntu machine to windows
+
+ssh -p 22 mathanroot@ip
+
