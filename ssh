@@ -1,0 +1,9 @@
+Tasks:
+
+I have created Linux and Ubuntu two Windows Subsystems.
+
+And Installed the ssh services for both Machines, and run the services.
+
+I linked into my Windows pc through ssh connection.
+
+Command "ssh mathanroot@ipaddress" 
